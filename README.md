@@ -12,17 +12,14 @@
       alt="LinkedIn"
     />
   </a>
-  <img
-    src="https://img.shields.io/badge/Open_to-Collaboration-3B1D68?style=flat-square&logo=github&logoColor=white"
-    alt="Open to collaboration"
-  />
 </p>
 
 ## About
+
 - 🎓 Technologist in Internet Systems.
 - 🔭 Building automation platforms and distributed systems.
 - 🧠 Exploring computer vision, virtual economies, and market microstructure.
-- 🤖 Interested in AI and coding agents, with a focus on reliable agentic workflows.
+- 🤖 Interested in AI and coding agents, with an emphasis on reliable agentic workflows.
 - ⚙️ Focused on practical architecture, dependable systems, and end-to-end product delivery.
 
 ## Stack
