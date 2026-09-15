@@ -18,13 +18,12 @@
   />
 </p>
 
-## Focus
-
+## About
+- 🎓 Technologist in Internet Systems.
 - 🔭 Building automation platforms and distributed systems.
 - 🧠 Exploring computer vision, virtual economies, and market microstructure.
-- 🤖 Interested in AI and coding agents, especially the harnesses that orchestrate, evaluate, and make agentic workflows reliable.
+- 🤖 Interested in AI and coding agents, with a focus on reliable agentic workflows.
 - ⚙️ Focused on practical architecture, dependable systems, and end-to-end product delivery.
-- 🎓 Technologist in Internet Systems.
 
 ## Stack
 
