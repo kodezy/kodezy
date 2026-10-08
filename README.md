@@ -26,8 +26,8 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=py,ts,rust,react,fastapi,postgres,redis,docker,opencv,tailwind&theme=dark&perline=10"
-    alt="Python, TypeScript, Rust, React, FastAPI, PostgreSQL, Redis, Docker, OpenCV, and Tailwind CSS"
+    src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,opencv,rust,ts,react,tailwind&theme=dark&perline=10"
+    alt="Python, FastAPI, PostgreSQL, Redis, Docker, OpenCV, Rust, TypeScript, React, and Tailwind CSS"
   />
 </p>
 
